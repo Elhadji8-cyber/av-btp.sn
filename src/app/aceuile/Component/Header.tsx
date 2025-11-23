@@ -17,7 +17,7 @@ type Dataimage= {
 const imageSlider:Dataimage[] = [
   {url:"https://www.clarkson.edu/sites/default/files/2023-06/Civil-Engineering-Hero-1600x900.jpg",
     title:"Bienvenue chez AV-BTP, Votre Compagnons Dans Le BTP",
-    description:"L'expertise au service de vos projets de construction en  en architecture et génie civil "
+    description:"L expertise au service de vos projets de construction en  en architecture et génie civil "
   },
   {url:"https://caddcentre.com/blog/wp-content/uploads/2022/02/Women-Civil-2-1024x669-1.jpeg",
    title:"Savoir‑faire Local, Standards Internationaux",
