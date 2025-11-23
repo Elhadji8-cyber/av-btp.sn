@@ -9,7 +9,7 @@ export const CompteProject = function(){
             </main>
             <main className="text-center  w-fit">
                  <h3 className="text-4xl sm:text-5xl text-sky-400 font-bold">10+</h3>
-                <p className="text-sm sm:text-base text-neutral-500">Années d'Expérience</p>
+                <p className="text-sm sm:text-base text-neutral-500">Années d&apos;Expérience</p>
             </main>
             <main className="text-center w-fit">
                  <h3 className="text-4xl sm:text-5xl text-sky-400 font-bold">50+</h3>

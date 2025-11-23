@@ -66,7 +66,7 @@ export const FooterSection = function(){
                             <Link href='../../Projets/residence-cayor' className='text-neutral-400 hover:text-white'>Résidence Cayor</Link>
                             <Link href='../../Projets/villa-cayor' className='text-neutral-400 hover:text-white'>Villa Cayor</Link>
                             <Link href='../../Projets/r-10-almadies' className='text-neutral-400 hover:text-white'>R+10 Almadies</Link>
-                            <Link href='../../Projets/r-5-cote-divoire' className='text-neutral-400 hover:text-white'>R+5 cote d'ivoire</Link>
+                            <Link href='../../Projets/r-5-cote-divoire' className='text-neutral-400 hover:text-white'>R+5 cote d&apos;ivoire</Link>
                         </nav>
                     </div>
 

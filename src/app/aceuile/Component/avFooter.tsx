@@ -22,7 +22,7 @@ export const AvFooterSection = function(){
             whileInView={{opacity:1, transition:{duration:1.2}, y:0}}
             transition={{ease: "easeOut", delay: 0.2}}
             className="w-full max-w-3xl text-center text-sm sm:text-base">
-                <p>Notre équipe d'experts est là pour vous accompagner de la conception à la réalisation.</p>
+                <p>Notre équipe d&apos;experts est là pour vous accompagner de la conception à la réalisation.</p>
                 <p>Contactez-nous pour discuter de votre vision.</p>
             </motion.div>
 
